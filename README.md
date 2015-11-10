@@ -1,6 +1,6 @@
 # ANN
 GUI for ANNs for Neural Data Analysis
 
-EDIT ME 
+A teaching tool to introduce ANNs and how their topology affects encoding, especially with regards to distortion/dimensionality reduction, in a simplified and visual setting. 
 
-- ANDA
+- ANDA et. al
