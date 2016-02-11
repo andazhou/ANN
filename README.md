@@ -1,6 +1,1 @@
-# ANN
-GUI for ANNs for Neural Data Analysis
-
-A teaching tool to introduce ANNs and how their topology affects encoding, especially with regards to distortion/dimensionality reduction, in a simplified and visual setting. 
-
-- Anda, Ashwath, Faisal, Guru
+GUI for visualizing image reconstruction using a deep autoencoder/backpropagation algorithm.
